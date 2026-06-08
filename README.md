@@ -6,3 +6,5 @@
 ### Career Goals
 - Become a Software Engineer
 - Improve my Coding Skills
+#### Fun Fact
+I enjoy Learning new technologies
